@@ -1,4 +1,4 @@
-bucket = "daws76s-state-dev"
-key    = "catalogue"
+bucket = "saik.online"
+key    = "roboshop-jenkins"
 region = "us-east-1"
-dynamodb_table = "daws76s-locking-dev"
+dynamodb_table = "saik-locking-dev"
