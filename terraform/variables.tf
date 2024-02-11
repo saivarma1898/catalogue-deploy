@@ -20,7 +20,7 @@ variable "environment" {
 }
 
 variable "zone_name" {
-  default = "saik.online"
+  default = "daws76s.online"
 }
 
 variable app_version {
@@ -28,5 +28,5 @@ variable app_version {
 }
 
 variable "iam_instance_profile" {
-  default = "tform"
+  default = "ShellScriptRoleForRoboshop"
 }
